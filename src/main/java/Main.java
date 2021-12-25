@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Hellow sdfd");
 //         MyFrame myFrame = new MyFrame();
 //         MyPanel myPanel = new MyPanel();
 //         TheFrame theFrame = new TheFrame(); // (and buttons)
